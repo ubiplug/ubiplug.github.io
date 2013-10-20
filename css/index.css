@@ -1,0 +1,57 @@
+body{
+
+}
+
+a{
+	text-decoration: none !important;
+}
+.main{
+	margin-top:0px;
+
+}
+
+.slidescontainer{
+	padding-top:50px;
+	padding-bottom: 50px;
+	width:90%;
+	margin:0 auto;
+}
+
+.immersive_slider{
+	height:555px;
+}
+
+.onslidebox{
+	width:96%;
+	height:400px;
+	background: rgba(0,0,0,0);
+	color:white;
+	font-family: Roboto slab;
+	padding:20px;
+}
+
+.small_image{
+	border:3px solid white;
+}
+
+.explanation{
+	font-family:Open Sans;
+	font-size:16px;
+	width:40%;
+	padding-top:10px;
+}
+iframe{
+	width:20%;
+	margin-top:40px;
+	margin-left:40%;
+	border:none;
+	overflow: hidden;
+}
+
+#footer{
+	width:100%;
+	height:120px;
+	background-color: black;
+	position: absolute;
+	bottom:0px;
+}
